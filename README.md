@@ -1,5 +1,7 @@
 ## Hi there 👋 It's me Dhayanand T
 
+
+
 ==Software Engineer== 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Here's my [portfolio](https://folio-mousse-ad2125.netlify.app/)   
@@ -28,6 +30,7 @@
 <img src="https://blog.canadianwebhosting.com/wp-content/uploads/2018/04/javascript-logo.png" height="30">
 <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" height="30">
 </div>
+
 ### Web Development (Full-stack):
 
 #### Frontend/UI
@@ -48,7 +51,7 @@
 <img width="50" height="30" src="https://img.icons8.com/wired/64/FD7E14/postman-api.png" alt="postman-api"/>
 </div>
 
-#### Database:
+#### DataBase:
 
 <div>
 <img src="https://img.icons8.com/color/452/mongodb.png" height="39">
