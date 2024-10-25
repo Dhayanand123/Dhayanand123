@@ -28,9 +28,9 @@
 <div>
 <img src="https://blog.canadianwebhosting.com/wp-content/uploads/2018/04/javascript-logo.png" height="30">
 <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" height="30">
-  ---
+
 </div>
----
+
 
 ### Web Development (Full-stack):
 
@@ -42,7 +42,7 @@
 <img src="https://img.icons8.com/color/452/bootstrap.png" height="30">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" height="30">
 </div>
----
+
 
 #### Backend/Server:
 
@@ -52,7 +52,7 @@
 <img width="48" height="48" src="https://img.icons8.com/color/48/firebase.png" alt="firebase"/>
 <img width="50" height="30" src="https://img.icons8.com/wired/64/FD7E14/postman-api.png" alt="postman-api"/>
 </div>
----
+<hr>
 
 #### DataBase:
 
