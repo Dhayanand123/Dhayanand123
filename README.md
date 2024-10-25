@@ -40,7 +40,7 @@
 <img src="https://img.icons8.com/color/452/bootstrap.png" height="30">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" height="30">
 </div>
-----
+---
 
 #### Backend/Server:
 
@@ -57,7 +57,7 @@
 <div>
 <img src="https://img.icons8.com/color/452/mongodb.png" height="39">
 </div>
-----
+---
 
 ### API
 <div>
