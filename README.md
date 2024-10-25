@@ -21,6 +21,7 @@
 | 3 | B.E | Sona College Of Technology | Computer Science and Engineering | 7.75 |
 
 <img align="right" width="370" height="290" src="https://tenor.com/kC7kSEaSFS6.gif">
+
 ## Skilled in
 
 ### Languages:
@@ -29,7 +30,7 @@
 <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" height="30">
   ---
 </div>
-
+---
 
 ### Web Development (Full-stack):
 
