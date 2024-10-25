@@ -27,8 +27,9 @@
 <div>
 <img src="https://blog.canadianwebhosting.com/wp-content/uploads/2018/04/javascript-logo.png" height="30">
 <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" height="30">
+  ---
 </div>
----
+
 
 ### Web Development (Full-stack):
 
