@@ -11,7 +11,7 @@
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/dhayanand.dhaya/) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dhayanand002/)
 
----
+
 # My Education 📖
 
 | S.No | Degree | School/College | Specialization | Percentage to CGPA |
@@ -28,6 +28,7 @@
 <img src="https://blog.canadianwebhosting.com/wp-content/uploads/2018/04/javascript-logo.png" height="30">
 <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" height="30">
 </div>
+---
 
 ### Web Development (Full-stack):
 
@@ -39,6 +40,7 @@
 <img src="https://img.icons8.com/color/452/bootstrap.png" height="30">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" height="30">
 </div>
+----
 
 #### Backend/Server:
 
@@ -48,18 +50,21 @@
 <img width="48" height="48" src="https://img.icons8.com/color/48/firebase.png" alt="firebase"/>
 <img width="50" height="30" src="https://img.icons8.com/wired/64/FD7E14/postman-api.png" alt="postman-api"/>
 </div>
+---
 
 #### DataBase:
 
 <div>
 <img src="https://img.icons8.com/color/452/mongodb.png" height="39">
 </div>
+----
 
 ### API
 <div>
 <img width="64" height="64" src="https://img.icons8.com/wired/64/FD7E14/postman-api.png" alt="postman-api"/>
 <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/lightning-bolt.png" alt="lightning-bolt"/>
 </div>
+---
 
 ## Hosting & Deploy
 
@@ -67,6 +72,7 @@
 <img height="50" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 <div>
+---
 
 
 ### IDE and Tools I Use
